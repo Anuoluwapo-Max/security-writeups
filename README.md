@@ -8,7 +8,7 @@ team role.
 ## About me
 3rd-year cybersecurity student, building hands-on skills through 
 TryHackMe, OverTheWire, and Cisco Networking Academy. Following along? 
-Find daily progress on X: [@malikcybersec](https://x.com/malikcybersec)
+Find daily progress on X: [@Maxwell_Cyb](https://x.com/Maxwell_Cyb)
 
 ## What's in here
 - `/bandit` — OverTheWire Bandit walkthroughs
